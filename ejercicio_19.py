@@ -5,4 +5,5 @@ for i in range(5):
 
 if numero % 2 == 0:
     pares.append(numero)
-    print(f"Los números pares son: {pares}")
+
+print(f"Los números pares son: {pares}")
